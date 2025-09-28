@@ -18,8 +18,15 @@ A scheduling software that generates its own demand by allowing clients to creat
 ⸻
 
 Technology
-	•	Backend and frontend components
-	•	Frontend: [to be determined]
-	•	Backend: [to be determined]
-	•	Database: MongoDB
-	•	Sorting algorithms (using Python) to create classes and assign optimal locations and times that suit the majority of participants.
+| Name             | Role             | GitHub Handle   |
+|------------------|------------------|-----------------|
+| Vansh            | Front End        | @nyx01          |
+| Dimitry          | Back End         | @Serrakurra     |
+| Jay              | Database Manager | @Synergetical   |
+| Afagh (Seyedeh)  | Product Owner    | @afaghmir       |
+
+
+Sorting algorithms (using Python) to create classes and assign optimal locations and times that suit the majority of participants.
+
+
+
