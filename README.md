@@ -16,6 +16,8 @@ Solution
 A scheduling software that generates its own demand by allowing clients to create availability requests. This enables gyms and trainers to offer sessions that directly match client needs.
 
 ⸻
+Sorting algorithms (using Python) to create classes and assign optimal locations and times that suit the majority of participants.
+⸻
 
 Technology
 | Name             | Role             | GitHub Handle   |
@@ -26,7 +28,6 @@ Technology
 | Afagh (Seyedeh)  | Product Owner    | @afaghmir       |
 
 
-Sorting algorithms (using Python) to create classes and assign optimal locations and times that suit the majority of participants.
 
 
 
