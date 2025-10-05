@@ -1,7 +1,4 @@
-## Better-Group-
-```
-BTS - Workshop 3
-```
+## Better-Group-2
 
 ## Project 4THEBETTER
 ```
@@ -25,12 +22,12 @@ Backend (TBD): responsible for authentication, data access, and business logic; 
 
 ## Roles
 ```
-| Name             | Role             | GitHub Handle   |
-|------------------|------------------|-----------------|
-| Vansh            | Front End        | @nyx01          |
-| Dimitry          | Back End         | @Serrakurra     |
-| Jay              | Database Manager | @Synergetical   |
-| Afagh (Seyedeh)  | Product Owner    | @afaghmir       |
+| Name                    | Role             | GitHub Handle   |
+|-------------------------|------------------|-----------------|
+| Vanshdeep Kaur Khattrha | Front End        | @nyx01          |
+| Dmitrii Kudriakov       | Back End         | @Serrakurra     |
+| Jun Ye Li               | Database Manager | @Synergetical   |
+| Seyedeh Mirdehghan      | Product Owner    | @afaghmir       |
 ```
 
 
