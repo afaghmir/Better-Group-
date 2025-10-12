@@ -19,15 +19,17 @@ This Workout App is a web application that helps users maintain a healthy lifest
 - Create a motivational and user-friendly interface.
 - Allow integration with wearable fitness devices in future versions.
 
+Implementation of systematic logging, development of efficient data structures for workout tracking and security measures in the backend and database.
+
 ## 3. Milestones
-1. Core system setup is in progress, including database structure design, user authentication implementation, and initial user interface development for account access and profile management.
-2. This milestone focuses on implementing core logging functionality, building efficient data structures for workout tracking, and ensuring secure storage of user data to support progress monitoring and future analytics.
-3. This phase implements goal-driven workout selection, empowering users with personalized plans to train more effectively and achieve their specific fitness targets.
-4. Implementing automated database backups for data recovery while developing user features for goal tracking, workout reminders, and calorie monitoring.
-5. Enhancing user progress tracking with visual charts, improving app navigation, optimizing database performance through indexing, and implementing workout notifications for consistency.
-6. Monitoring database performance, implementing motivational goal reminders, adding social features for connecting with training partners, and enabling progress tracking through visual charts.
-7. Optimizing app performance and reliability, implementing a modern color theme, enabling progress sharing with friends and trainers, and maintaining consistent data through reliable API connections.
-8. Enabling global app access, ensuring data consistency across all operations, implementing responsive design for mobile and desktop, and analyzing user engagement metrics for future planning.
+1. Design and initial implementation of the core systems: database structure, user authentication process, simple user interface for account aceess and profile management.
+2. Implementation of systematic logging, development of efficient data structures for workout tracking and security measures in the backend and database.
+3. Goal-driven workout selection, development of personalized plans to train more effectively.
+4. Work on automated database backups for data recovery and development of user features for goal tracking, workout reminders, and calorie monitoring.
+5. User progress tracking with visual charts, improvement of app navigation, indexing of the database, notifications about future workouts.
+6. Monitoring of database performance, implemention of motivational goal reminders, social features for connecting with training partners, progress tracking through visual charts.
+7. Optimization of app performance, reliability and design: color themes and fonts, progress sharing with friends, and maintaining reliable API connections.
+8. Enabling global app access, ensuring data consistency across all operations, implementing responsive design for mobile and desktop.
 
 
 
