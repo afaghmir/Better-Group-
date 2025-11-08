@@ -31,6 +31,17 @@ Implementation of systematic logging, development of efficient data structures f
 7. Optimization of app performance, reliability and design: color themes and fonts, progress sharing with friends, and maintaining reliable API connections.
 8. Enabling global app access, ensuring data consistency across all operations, implementing responsive design for mobile and desktop.
 
+### 3.2 Requirements Traceability Matrix
+
+| Requirement ID | Requirement Description           | Deliverable ID | Deliverable Description              | Owner  | Status       |
+|----------------|-----------------------------------|----------------|--------------------------------------|---------|---------------|
+| REQ-001        | User authentication               | DEV-001        | Secure login and session management  | Dev1    | Done          |
+| REQ-002        | User registration                 | DEV-002        | Registration form with input validation | Dev2 | In Progress   |
+| REQ-003        | User profile                      | DEV-003        | Profile page with editable information | Dev1 | Done          |
+| REQ-004        | Class booking & scheduling         | DEV-004        | Real-time studio booking system      | Dev4    | In Progress   |
+| REQ-005        | Workout tracking and goal setting  | DEV-005        | Tracker for workouts, calories & goals | Dev3 | In Progress   |
+| REQ-006        | Database integration               | DEV-006        | Connected database for all app data  | Dev2    | In Progress   |
+| REQ-007        | Error handling & notifications     | DEV-007        | Error handling and user notifications | Dev4 | Not Started   |
 
 
 ## 4. Deliverables
