@@ -43,6 +43,9 @@ Implementation of systematic logging, development of efficient data structures f
 | REQ-006        | Database integration               | DEV-006        | Connected database for all app data  | Dev2    | In Progress   |
 | REQ-007        | Error handling & notifications     | DEV-007        | Error handling and user notifications | Dev4 | Not Started   |
 
+### 3.3 Work Breakdown Structure
+<img width="1707" height="697" alt="image" src="https://github.com/user-attachments/assets/e484994a-8252-4801-baa8-3b283c5dd89c" />
+
 
 ## 4. Deliverables
 
