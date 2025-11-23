@@ -77,11 +77,11 @@ Implementation of systematic logging, development of efficient data structures f
 | $14,500     | 8       | $116,000              |
 
 ### 5.3 Contigency
-| Category          | Base Amount | Rate | Cost     |   |   |   |   |   |   |
-|-------------------|-------------|------|----------|---|---|---|---|---|---|
-| Sprint Cost       | $116,000    | 10%  | $11,600  |   |   |   |   |   |   |
-| Fixed Cost        | $38,280     | 15%  | $5,742   |   |   |   |   |   |   |
-| Total Contingency |             |      | $17,342  |   |   |   |   |   |   |
+| Category          | Base Amount | Rate | Cost     |
+|-------------------|-------------|------|----------|
+| Sprint Cost       | $116,000    | 10%  | $11,600  |
+| Fixed Cost        | $38,280     | 15%  | $5,742   |
+| Total Contingency |             |      | $17,342  |
 
 ### 5.4 Total Estimated Cost
 | Category           | Amount     |
