@@ -55,6 +55,8 @@ Implementation of systematic logging, development of efficient data structures f
 4. Calory tracker - entered by users.
 5. Workout Tracker and suggestions based on previous workouts.
 
+### 4.1 Gantt Chart
+![Gantt-Chart](./Images/Gantt-Chart.png)
 
 ## 5. Preliminary Budget
 
