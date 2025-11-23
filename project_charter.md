@@ -57,10 +57,18 @@ Implementation of systematic logging, development of efficient data structures f
 
 
 ## 5. Preliminary Budget
-*(To be completed in later workshops)*
+
+### 5.1 Preliminary Budget 
+![alt text](./Images/PreliminaryBudget.png)
 
 ## 6. Organization and Stakeholders
-*(To be completed in later workshops)*
+
+### 6.1 Stakeholder Analysis Matrix
+![alt text](./Images/Matrix.png)
+
+### 6.2 Communication PLan
+![alt text](./Images/CommunationPlan.png)
+
 
 ## 7. Risks, Assumptions, and Constraints
 *(To be completed in later workshops)*
