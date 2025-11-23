@@ -32,7 +32,7 @@ Implementation of systematic logging, development of efficient data structures f
 8. Enabling global app access, ensuring data consistency across all operations, implementing responsive design for mobile and desktop.
 
 ### 3.1 Work Breakdown Structure
-<img width="1707" height="697" alt="image" src="https://github.com/user-attachments/assets/e484994a-8252-4801-baa8-3b283c5dd89c" />
+<img width="1000" height="400" alt="image" src="https://github.com/user-attachments/assets/e484994a-8252-4801-baa8-3b283c5dd89c" />
 
 ### 3.2 Requirements Traceability Matrix
 
@@ -58,18 +58,47 @@ Implementation of systematic logging, development of efficient data structures f
 ### 4.1 Gantt Chart
 ![Gantt-Chart](./Images/Gantt-Chart.png)
 
+
 ## 5. Preliminary Budget
 
-### 5.1 Preliminary Budget 
-![alt text](./Images/PreliminaryBudget.png)
+### 5.1 Personnel Cost Per Sprint
+
+| Role                | Rate  | Allocation | Daily Burn Rate | Days (Sprint) | Sprint Burn Rate  |
+|---------------------|-------|------------|-----------------|---------------|-------------------|
+| Product Owner       | $600  | 50%        | $300            | 10            | $3,000            |
+| Front-End Developer | $400  | 100%       | $400            | 10            | $4,000            |
+| Back-end Developer  | $400  | 100%       | $400            | 10            | $4,000            |
+| Databasse Manager   | $350  | 100%       | $350            | 10            | $3,500            |
+| Total               |       |            |                 |               | $14,500           |
+
+### 5.2 Total Personnel Cost
+| Sprint Cost | Sprints | Total Personnel Cost  |  
+|-------------|---------|-----------------------|
+| $14,500     | 8       | $116,000              |
+
+### 5.3 Contigency
+| Category          | Base Amount | Rate | Cost     |   |   |   |   |   |   |
+|-------------------|-------------|------|----------|---|---|---|---|---|---|
+| Sprint Cost       | $116,000    | 10%  | $11,600  |   |   |   |   |   |   |
+| Fixed Cost        | $38,280     | 15%  | $5,742   |   |   |   |   |   |   |
+| Total Contingency |             |      | $17,342  |   |   |   |   |   |   |
+
+### 5.4 Total Estimated Cost
+| Category           | Amount     |
+|--------------------|------------|
+| Personnel Costs    | $116,000   |
+| Fixed Cost         | $38,280    |
+| Cotingency Revenue | $17,342    |
+| TOTAL BUDGET       | $171,622   |
+
 
 ## 6. Organization and Stakeholders
 
 ### 6.1 Stakeholder Analysis Matrix
-![alt text](./Images/Matrix.png)
+<img src="./Images/Matrix.png" alt="Alt Text" width="500" height="420">
 
 ### 6.2 Communication PLan
-![alt text](./Images/CommunationPlan.png)
+<img src="./Images/CommunationPlan.png" alt="Alt Text" width="750" height="450">
 
 
 ## 7. Risks, Assumptions, and Constraints
