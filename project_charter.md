@@ -102,4 +102,13 @@ Implementation of systematic logging, development of efficient data structures f
 
 
 ## 7. Risks, Assumptions, and Constraints
-*(To be completed in later workshops)*
+- **Low User Adoption:** Users might not interact with the app as frequently as expected.
+- **Trainer No-Show:** Trainers or instructors may fail to attend sessions they are assigned to.
+- **Privacy Concerns:** User information, such as profile details, workout preferences, or booking data, might be exposed or accessed without authorization.
+- **Fraud Risks:** The platform might be misused for fraudulent activities, including fake gym partners, suspicious financial behavior, or malicious user sign-ups.
+- **Copyright Infringement:** The app’s features or design might unintentionally resemble another platform, resulting in copyright or intellectual property claims.
+- **Injuries From Gym Equipment:** Users may experience injuries while following workouts or attending classes.
+- **Database Availability:** The database might become unavailable during high-traffic booking periods, preventing users from accessing schedules.
+
+### Risk Evaluation Chart 
+<img src="./Images/RiskEvaluation.png" alt="Alt Text" width="750" height="450">
