@@ -32,7 +32,7 @@ Implementation of systematic logging, development of efficient data structures f
 8. Enabling global app access, ensuring data consistency across all operations, implementing responsive design for mobile and desktop.
 
 ### 3.1 Work Breakdown Structure
-<img width="1000" height="400" alt="image" src="https://github.com/user-attachments/assets/e484994a-8252-4801-baa8-3b283c5dd89c" />
+<img src="./Images/WBS.png" alt="Alt Text" width="1100" height="420">
 
 ### 3.2 Requirements Traceability Matrix
 
